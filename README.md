@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Joseph Worley</h1>
-<h3 align="center">A Full-Stack developer who specializes in JavaScript</h3>
+<h3 align="center">A Full-Stack developer specializing in JavaScript</h3>
 
 - 💬 Ask me about **node.js, js**
 
